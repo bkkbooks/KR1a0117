@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0117/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御纂周易折中
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:58:34.308465'
+  source:
+    repository: kanripo
+    path: KR1a0117/KR1a0117_000.txt
+hash: sha256:fc7adb92b3725b9c27264ad9298ce18be44be2e156290c4d85ccdb1eb0c8bfde

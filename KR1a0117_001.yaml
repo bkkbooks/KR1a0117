@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1a0117/krp/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書聖祖仁皇帝御製周易折中序易學之廣大悉備秦漢而後無復得其精微矣至有宋以來周邵程張闡發其奧唯朱子兼象數天理違衆而定之五百餘年無復同異宋元明至於我朝因先儒己開之微㫖或有議論已見漸至啓後人之疑朕自弱齡留心經義五十餘年未嘗少輟但知諸書大全之駁雜奈非專經之純熟深知大學士李光地素學有本易理精詳特命修周易折中上律河洛之本末下及衆儒之考定與通經之不可易者折中而取之越二寒暑甲夜披覽片字一畫斟酌無怠康熙五十四年春告成而傳之天下後世能以正學為事者自有所見歟康熙五十四年春三月十八日
+  hash: sha256:17f407c5f97a944cc74172b75a4d556fb05171e2828164afc2c75fd0dca6730a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0117_WYG_001-1a, image: WYG0038/WYG0038-0001a.png}
+metadata:
+  title: 御纂周易折中
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:58:34.308465'
+  juan_title: 御製周易折中序
+  source:
+    repository: kanripo
+    path: KR1a0117/KR1a0117_001.txt
+hash: sha256:bc80d8cf3abdfc01389181015787ad94113b864be28d89aca3203340d6056c49
